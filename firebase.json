@@ -1,0 +1,9 @@
+{
+    "hosting": {
+        "site" : "samila",
+        "public": "public"
+      },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
